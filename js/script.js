@@ -43,9 +43,9 @@
 
 // console.log(2*4 == '8');
 
-const isChecked = false,
-      isClosed = false;
+// const isChecked = false,
+//       isClosed = false;
 
-console.log(isChecked || !isClosed);
+// console.log(isChecked || !isClosed);
 
-console.log(2 + 2 * 2 === 8);
+// console.log(2 + 2 * 2 === 8);
