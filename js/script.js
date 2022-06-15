@@ -85,4 +85,12 @@
 //     default: 
 //              console.log('Not Ok!');
 // }
-                
+
+// Циклы
+
+let num = 56;
+
+while (num<55) {
+    console.log('num');
+    num++;
+}
