@@ -1,3 +1,4 @@
+"use strict";
 
 // !Простое общение с пользователем
 
@@ -88,7 +89,7 @@
 
 // Циклы
 
-let num = 50;
+// let num = 50;
 
 // while (num <= 55) {
 //     console.log(num);
@@ -107,3 +108,62 @@ let num = 50;
 //     }
 //     console.log(i);
 // }
+
+// Функции
+
+// let num = 20;
+
+// function ShowFirstMessage(text) {
+//     console.log(text);
+//     let num = 10;
+//     console.log(num);
+
+//     num = 10;
+// }
+
+// ShowFirstMessage('Hello world!');
+// console.log(num);
+
+// function calc (a, b) {
+//     return(a + b);
+// }
+
+// console.log(calc(4, 7));
+// console.log(calc(8, 15));
+
+// function ret() {
+//     let num = 50;
+//     return num;
+// }
+
+// const anotherNum = ret();
+// console.log(anotherNum);
+
+// const logger = function() {
+//     console.log('Hello');
+// };
+
+// logger();
+
+// const calc = (a, b) => {
+//     console.log('1');
+//     return a + b;
+// }
+
+// Методы и свойства строк и чисел
+
+// const str = "test";
+// const arr = [1, 2, 3];
+// console.log(str.toUpperCase());
+
+// const fruit = "Some fruit";
+// console.log(fruit.indexOf('fruit'));
+
+// const logg = 'Hello world';
+// console.log(logg.slice(6, 7));
+
+// const num = 12.2;
+// console.log(Math.round(num));
+
+// const test = "12.2px";
+// console.log(parseFloat(test));
